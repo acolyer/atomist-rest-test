@@ -1,6 +1,6 @@
 # atomist-rest-test
 
-My new project
+My new project, and my first edit.
 
 
 This Spring Boot microservice is driven using Maven. To run locally
