@@ -38,3 +38,5 @@ The following Atomist editors are available for this project:
 ---
 Created on 2017-02-26 by Atomist.
 Need Help? <a href="https://join.atomist.com/">Join our Slack community</a>.
+
+Testing slack integration.
